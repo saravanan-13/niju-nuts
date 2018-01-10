@@ -33,7 +33,7 @@ img, a, p{
     float: right;
     padding: 0.5% 0 0.5% 0;
     margin: 1.5% 1% 1.5% 1%;
-    transition: padding 0.25s, margin-bottom 0.25s;
+    transition: padding 0.25s,border-bottom 0.25s;
 }
 #navbar-logo{
     position: absolute;
